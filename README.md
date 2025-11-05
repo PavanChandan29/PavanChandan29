@@ -1,4 +1,4 @@
-## Hi there, I'm Pavan Chandan Vemuri 👋
+## Hi there, I'm Pavan 👋
 
 I'm passionate about __Data Analytics__, __Data Engineering__, __Data Science__ and __Business Case Studies__. 
 
