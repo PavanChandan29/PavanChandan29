@@ -1,84 +1,92 @@
-## Hi there, I'm Pavan 👋
+<div align="center">
 
-I'm passionate about __Data Analytics__, __Data Engineering__, __Data Science__ and __Business Case Studies__. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Hi,%20I'm%20Pavan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20GenAI%20agents%20%26%20RAG%20systems&descAlignY=58&descSize=18" width="100%"/>
 
-I love solving real-world data problems—storing it, processing it, and digging into it to find insights. Always excited to share how I’d tackle those challenges!
+**Data Platforms Enthusiast** → now building **GenAI / agentic AI systems**
 
-## 👨‍🎓🚀 About Me 💡📊  
+[![GitHub followers](https://img.shields.io/github/followers/PavanChandan29?style=for-the-badge&color=2E3192&labelColor=1a1a1a)](https://github.com/PavanChandan29)
+[![Profile views](https://komarev.com/ghpvc/?username=PavanChandan29&style=for-the-badge&color=1BFFFF&labelColor=1a1a1a)](https://github.com/PavanChandan29)
 
-🎓 Graduate student with a **Master's in Business Analytics** from **UT Dallas**, with a **Graduate Certificate in Business Intelligence and Data Mining**.  
+</div>
 
-💻 I have hands-on experience in **Data Engineering and Analytics, Business Intelligence (BI), and Cloud Infrastructure**, working with **SQL, Python, and Big Data Technologies** to build scalable data solutions.  
+## 🚀 What I'm Into Right Now
 
----
+I started out in SQL, Power BI and cloud data engineering (Azure, AWS), and over the last year I've moved into **GenAI and agentic systems** — RAG pipelines, vector search, LLM orchestration with LangGraph, and MCP-based tool use. I like taking a project end-to-end: scraping/ingesting data, building the retrieval layer, and shipping a usable interface on top of it.
 
-### ⚙️ Data Engineering & Cloud Technologies  
-🔹 **Big Data & Processing**  
-🔸 *Apache Spark (PySpark)*  
-🔸 *AWS Athena, Glue*  
-🔸 *Azure Data Factory (ADF)*  
-🔸 *Databricks*  
+## 🧠 Featured Projects
 
-🔹 **Databases & Query Engines**  
-🔸 *SQL Server, PostgreSQL, MySQL*  
-🔸 *Hive, Pig*  
+| Project | What it does | Built with |
+|---|---|---|
+| [**Conversational AI Bot for UT Dallas JSOM**](https://github.com/PavanChandan29/Conversational-AI-Bot-for-UTDallas-JSOM-) — [live demo](https://jsom-botship.streamlit.app/) | RAG chatbot answering JSOM admissions/program FAQs; scrapes the JSOM site and serves answers via a Streamlit UI | `Python` `Selenium` `BeautifulSoup` `Pinecone` `GPT-4o-mini` `Streamlit` |
+| [**BitofGit (github-mcp)**](https://github.com/PavanChandan29/github-mcp) | MCP server backed by a local SQLite knowledge store, with a LangGraph agent reasoning over GitHub repo data through structured tools instead of raw API calls | `Python` `MCP` `LangGraph` `SQLite` |
+| [**CRM Bot on AWS Lex + Bedrock**](https://github.com/PavanChandan29/crm-bot-on-AWS-Lex-Bedrock) | RAG-based financial advisory chatbot grounded in internal docs, built on Amazon Lex, Bedrock Knowledge Bases and OpenSearch Serverless | `AWS Lex` `Bedrock` `OpenSearch Serverless` `Titan Embeddings` |
+| [**Crypto DBT Pipeline**](https://github.com/PavanChandan29/crypto_dbt_pipeline) | End-to-end analytics pipeline: pulls crypto market data, loads it to PostgreSQL, models it with dbt, and visualizes it in Streamlit/Plotly | `Python` `PostgreSQL` `dbt` `Streamlit` `Plotly` |
+| [**Real Estate Data Management on Azure**](https://github.com/PavanChandan29/Realestate-Data-Management-using-Azure-) | Cloud data engineering pipeline for real estate data using Azure's data platform | `Azure` `Data Factory` `PySpark` |
 
-🔹 **ETL & Data Pipelines**  
-🔸 *Data Factory (ADF), Glue ETL*  
-🔸 *Batch & Streaming Pipelines*  
+<details>
+<summary><b>Earlier data analytics work (SQL / Power BI)</b></summary>
+<br>
 
-🔹 **Cloud Platforms**  
-🔸 *AWS (S3, Lambda, Redshift, Step Functions)*  
-🔸 *Azure (Data Lake, Synapse)*  
-🔸 *Snowflake (Snowsight)* 
+- [Pizza Sales Analysis — SQL & Power BI](https://github.com/PavanChandan29/Sales-Analytics-using-PowerBI)
+- [Danny's Diner SQL Case Study](https://github.com/PavanChandan29/SqlQ1)
+- [Netflix Dashboard — Power BI](https://github.com/PavanChandan29/Netflix-Dashboard-using-PowerBI)
+- [Data Mining on Sales Data](https://github.com/PavanChandan29/Data-Mining-on-Sales-Data)
 
----
+</details>
 
-### 📊 Data Analytics & Business Intelligence  
-📈 **Driving insights through analytics and visualization:**  
+## 🛠️ Tech Stack
 
-🔹 **Data Manipulation & Transformation**  
-🔸 *SQL, Pandas, PySpark*  
+**GenAI & Agents**
 
-🔹 **Business Intelligence & Reporting**  
-🔸 *Power BI (DAX, Power Query), Tableau*  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangGraph%2FLangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-🔹 **Performance Monitoring & Analysis**  
-🔸 *ETL Performance Metrics & Optimization*  
-🔸 *KPI Tracking & Reporting*  
+**Cloud & Data Engineering**
 
-🔹 **Business & Product Analytics**  
-🔸 *A/B Testing & Experimentation*  
-🔸 *Customer Segmentation & Cohort Analysis*  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
----
+**Languages & Databases**
 
-### 🤖 Machine Learning & Data Science  
-📊 **Applying predictive analytics in business use cases:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-🔹 **Predictive Modeling & Forecasting**  
-🔸 *Regression & Classification (Logistic, Decision Trees, Random Forests)*  
-🔸 *Time Series Forecasting (ARIMA, Prophet, LSTM)*  
+**BI & Visualization**
 
-🔹 **Feature Engineering & Data Preparation**  
-🔸 *Data Cleaning, Dimensionality Reduction*    
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
+## 📊 GitHub Stats
 
-🚀 Passionate about **scalable data solutions**, **cloud-based analytics**, and **leveraging data for business impact**!  
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=PavanChandan29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanChandan29&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
 
-## 🛠️📊 My Skills 🚀🔍  
+</div>
 
-[![](https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org) [![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) [![](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com) [![](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/products/data-factory) [![](https://img.shields.io/badge/Databricks-FC4C02?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com) [![](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) [![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com) [![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)  
+## 🎓 Education
 
+- **Master's in Business Analytics** — UT Dallas
+- **Graduate Certificate in Business Intelligence and Data Mining** — UT Dallas
 
----
+## 📜 Certifications
 
-## 📜🎖️ Certifications  
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Azure Data Fundamentals
+- Microsoft Certified: Power BI Data Analyst Associate
+- AWS Certified Cloud Practitioner
 
-🔹 **Microsoft Certified: Azure Fundamentals**  
-🔹 **Microsoft Certified: Azure Data Fundamentals**  
-🔹 **Microsoft Certified: Power BI Data Analyst Associate**  
-🔹 **AWS Certified Cloud Practitioner**  
+<div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-PavanChandan29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavanChandan29)
+
+</div>
