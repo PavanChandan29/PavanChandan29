@@ -78,7 +78,6 @@ I started out in SQL, Power BI and cloud data engineering (Azure, AWS), and over
 ## 🎓 Education
 
 - **M.S., Business Analytics & Artificial Intelligence** — The University of Texas at Dallas (Minor: Business Intelligence and Data Mining)
-- **B.Tech** — K L University, India
 
 ## 📜 Certifications
 
