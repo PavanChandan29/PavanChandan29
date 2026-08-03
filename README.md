@@ -2,7 +2,7 @@
 
 # Hi, I'm Pavan 👋
 
-**AI/ML Engineer** building GenAI & agentic systems · 3+ years across consumer credit, banking, logistics & higher ed · St. Louis, MO
+**AI/ML Engineer** building GenAI & agentic systems · 3+ years across consumer credit, banking, logistics & higher ed · United States
 
 [![GitHub followers](https://img.shields.io/github/followers/PavanChandan29?style=for-the-badge&color=2E3192&labelColor=1a1a1a)](https://github.com/PavanChandan29)
 
