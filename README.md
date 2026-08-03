@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Hi,%20I'm%20Pavan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%26%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%"/>
+# Hi, I'm Pavan 👋
 
 **AI/ML Engineer** building GenAI & agentic systems · 3+ years across consumer credit, banking, logistics & higher ed · St. Louis, MO
 
 [![GitHub followers](https://img.shields.io/github/followers/PavanChandan29?style=for-the-badge&color=2E3192&labelColor=1a1a1a)](https://github.com/PavanChandan29)
-[![Profile views](https://komarev.com/ghpvc/?username=PavanChandan29&style=for-the-badge&color=1BFFFF&labelColor=1a1a1a)](https://github.com/PavanChandan29)
-[![Email](https://img.shields.io/badge/Email-chpavanv%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chpavanv@gmail.com)
 
 </div>
 
@@ -15,8 +13,6 @@
 I started out in SQL, Power BI and cloud data engineering (Azure, AWS), and over the last couple of years I've moved into **GenAI and agentic systems** — multi-agent orchestration, RAG, and MCP-based tool use. Day to day that means building retrieval pipelines, wiring up planning/action agents with LangGraph and Google's Agent Development Kit, and getting agents into production with proper observability instead of just a demo notebook.
 
 ## 💼 Experience Focus Areas
-
-*(Domain & use case only — client/employer names withheld by request)*
 
 - **Consumer credit / operations** — Built a production conversational AI assistant for operations analysts (Node.js + Python/FastAPI on GCP, Vertex AI, Gemini 2.5, Firestore, GKE) that surfaces case history and context in one place, generating case summaries and guided resolution support for thousands of cases/month. Designed a multi-agent topology (planning, RAG, action agents) on Google's Agent Development Kit, an agentic Playwright MCP flow that completes repetitive portal workflows end to end, and a self-service "Knowledge Fabric" portal so non-engineers can publish approved content straight into the RAG store. Added Langfuse tracing across prompts, tool calls, and agent plans for debugging and release confidence.
 - **Logistics** — Built regression and tree-based ML models (scikit-learn) to predict per-order shipping costs and recommend cost-optimal packaging/carrier choices, contributing to six-figure shipping cost savings. Built reusable data-cleaning/reconciliation workflows across multiple carrier and shipment datasets, cutting processing time from days to hours.
@@ -78,15 +74,6 @@ I started out in SQL, Power BI and cloud data engineering (Azure, AWS), and over
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PavanChandan29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanChandan29&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-
-</div>
 
 ## 🎓 Education
 
